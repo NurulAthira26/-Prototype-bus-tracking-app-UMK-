@@ -219,38 +219,6 @@ class Dashboard extends StatelessWidget {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //location
 class LocationScreen extends StatefulWidget {
   @override
