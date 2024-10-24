@@ -1,8 +1,10 @@
-# Bus Tracking App Project For Semester 4 Second year 
-#The bus tracking application is an application made for the use of university students, through this app UMK buses will be able to easily track the location of students to take students from one location to another. This will make it easier for students to make reservations in advance to board the bus.
+# Bus Tracking App Project UMK 
 
+#This prototype bus tracking application using flutter is an application made for the use of university students, through this prototype app , UMK buses will be able to easily track the location of students to take students from one location to another. This will make it easier for students to make reservations in advance to board the bus.
 #this application can access the location of a person wherever he is
-#also use databases to redisplay past feedback
+
+
+
 ![login page bus tracking app](https://github.com/369HACK/bus-tracking-app/assets/93875055/07ffa7d6-ed0f-46ca-bc09-ca68f50cfdd4)
 ![dashboard bus tracking app](https://github.com/369HACK/bus-tracking-app/assets/93875055/4df25282-1167-4ae1-8e99-897e986026ab)
 ![profile bus tracking app](https://github.com/369HACK/bus-tracking-app/assets/93875055/7f458e0d-3ab2-4398-baa0-6b45771028b7)
