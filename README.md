@@ -46,7 +46,7 @@
 - **Feedback Handling**: Implements a simple feedback mechanism, allowing users to submit and view previous feedback.
 
 ### Summary
-This code exemplifies the use of Dart and Flutter for building a mobile application with functionalities like user login, profile management, location tracking, and feedback submission. Flutter's rich set of widgets and Dart's asynchronous capabilities facilitate the development of complex and interactive UIs.
+This code exemplifies the use of and Flutter for building a mobile application with functionalities like user login, profile management, location tracking, and feedback submission. Flutter's rich set of widgets and Dart's asynchronous capabilities facilitate the development of complex and interactive UIs.
 
 
 ![login page bus tracking app](https://github.com/369HACK/bus-tracking-app/assets/93875055/07ffa7d6-ed0f-46ca-bc09-ca68f50cfdd4)
